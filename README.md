@@ -1,14 +1,14 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# FACE RECOGNITION ATTENDANCE SYSTEM USING DEEP LEARNING 
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Face Recognition Attendance System using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Hamizah binti Yusni
+- Nurfarzana Amirah binti Adnan
+- Syaqirah Nur Fatihah binti Sazalee
+- Nurul Hidayati Rahmah binti Mohd Hashim
 
 
 - [ ] **Objectives:**
